@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="Grid_1_">
+	<g id="Layer_1_1_">
+		<g id="Grid">
+			<g>
+				<rect fill="none" stroke="#A9CCDB" stroke-miterlimit="10" width="512" height="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="480" x2="512" y2="480"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="448" x2="512" y2="448"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="416" x2="512" y2="416"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="384" x2="512" y2="384"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="352" x2="512" y2="352"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="320" x2="512" y2="320"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="288" x2="512" y2="288"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="256" x2="512" y2="256"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="224" x2="512" y2="224"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="192" x2="512" y2="192"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="160" x2="512" y2="160"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="128" x2="512" y2="128"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="96" x2="512" y2="96"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="64" x2="512" y2="64"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="32" x2="512" y2="32"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="480" y1="0" x2="480" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="448" y1="0" x2="448" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="416" y1="0" x2="416" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="384" y1="0" x2="384" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="352" y1="0" x2="352" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="320" y1="0" x2="320" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="288" y1="0" x2="288" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="256" y1="0" x2="256" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="224" y1="0" x2="224" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="192" y1="0" x2="192" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="160" y1="0" x2="160" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="128" y1="0" x2="128" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="96" y1="0" x2="96" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="64" y1="0" x2="64" y2="512"/>
+				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="32" y1="0" x2="32" y2="512"/>
+			</g>
+		</g>
+	</g>
+</g>
+<path d="M256,0C114.613,0.032,0,114.613,0,256c0,141.391,114.613,256,256,256c141.391,0,256-114.609,256-256
+	C512,114.613,397.391,0.032,256,0z M412.857,132.736c24.963,31.714,40.619,70.989,42.586,113.892
+	c-28.901-6.127-56.21-9.125-81.676-9.125l0,0h-0.188c-20.466,0-39.714,1.842-57.837,5.061c-4.438-10.811-8.872-21.184-13.374-31.122
+	C342.741,193.758,381.485,168.542,412.857,132.736z M256,56.274c47.12,0,90.334,16.469,124.548,43.902
+	c-26.187,31.34-60.773,54.025-98.08,70.084c-26.247-50.742-51.588-87.051-68.93-109.234C227.254,58.025,241.41,56.274,256,56.274z
+	 M167.762,77.085c13.873,16.373,41.652,52.4,71.274,108.642c-60.274,17.969-120.986,22.154-157.73,22.154c-1.034,0-2.096,0-3.094,0
+	h-0.032c-6.188,0-11.5-0.125-15.966-0.25C76.554,150.295,115.832,102.8,167.762,77.085z M56.274,256
+	c0-0.938,0.032-1.875,0.096-2.873c5.686,0.217,12.997,0.406,21.809,0.406h0.032c40.151-0.282,110.267-3.625,181.29-26.061
+	c3.874,8.47,7.686,17.281,11.499,26.468c-47.431,15.84-84.802,41.118-112.425,66.302c-26.621,24.246-44.589,48.215-55.087,64.24
+	C74.087,349.678,56.274,304.996,56.274,256z M256,455.725c-44.462,0-85.426-14.686-118.673-39.371
+	c7.093-11.62,22.218-33.931,46.34-57.022c24.809-23.776,59.055-48.275,103.798-62.837c15.186,42.621,28.934,91.332,39.432,146.171
+	C304.807,451.07,280.967,455.725,256,455.725z M369.019,420.293c-10.126-49.619-22.873-94.302-36.84-134.232
+	c12.968-1.844,26.59-2.906,40.965-2.906h0.499h0.032h0.029c23.843,0,49.993,2.967,78.396,9.404
+	C442.29,345.364,411.699,390.86,369.019,420.293z"/>
+</svg>
